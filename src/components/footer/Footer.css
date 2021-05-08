@@ -1,0 +1,12 @@
+.footer {
+    background-color: #EEE;
+    border-bottom: solid #CCC 1px;
+    border-top: solid #CCC 1px;
+    padding-top: 24px;
+    padding-bottom: 24px;
+}
+
+.logo {
+    padding-left: 4px;
+    padding-right: 4px;
+}

@@ -1,0 +1,21 @@
+.title {
+    padding: 16px;
+    min-width: 360px;
+}
+
+.title-name {
+    text-align: left;
+    font-size: 28px;
+    font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+    font-weight: 360;
+    letter-spacing: 1px;
+    color: #111;
+}
+
+.title-job {
+    text-align: left;
+    font-size: 16px;
+    font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+    font-weight: 400;
+    color: #555;
+}
